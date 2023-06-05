@@ -12,6 +12,5 @@ INSERT INTO classmate VALUES (0003, 'Анатолий', '29', 'Минск');
 INSERT INTO classmate VALUES (0004, 'Олег', '21', 'Дублин');
 INSERT INTO classmate VALUES (0005, 'Ксения', '29', 'Каир');
 
-
 -- fetch 
 SELECT * FROM classmate;
